@@ -14,15 +14,16 @@ toc: true
 </figure> 
 
 <br>
-Hi, my name is Meng-Chen Lee, you can also call me Martin.<br>
-I am currently a Ph.D. Computer Science student from University of Houston.<br>
-I graduated from National Cheng Kung University(NCKU) in 2019.
+用中文自介突然覺得好奇怪哈哈~~
+我現在休士頓大學CS念Ph.D.
+然後我是從成功國立大學畢業的，那時候還是讀BME,來美國之後轉CS.
+
 
 
 <br>
-I love technology and something new <br>
-I believe that people should be curious, passionate, <br>
-and explore the unknown to make our life meaningful.
+我喜歡科技和新穎的東西
+我認為人類需要一直保持好奇心和熱忱的心然後持續探索未知的領域以使我們的生活更加美好
+
 
 ## Personal information
 
