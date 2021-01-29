@@ -11,7 +11,7 @@ author_profile: true
 
 ---
 
-OS contains 4 homeworks~
+OS 有四個作業
 
 HW1: Simple Pstree
 ===
@@ -28,8 +28,7 @@ HW3: Scheduling simulation
 <iframe src="https://docs.google.com/viewer?srcid=1U4tNZf5y4dDLZ7Jluc-Cbuc6tkAQ1PsA&pid=explorer&efh=false&a=v&chrome=false&embedded=true" style="width:100%; height:650px;" frameborder="0"></iframe>
 [github link](https://github.com/genius92606/hw3-scheduling-simulation-genius92606-master)
 
-
-I lost my ppt of 4th homework, so I use the 2017 version instead~
+我的第四次作業PPT不見了QQ 所以我用2017的版本
 
 HW4: Memory allocator implementation
 ===

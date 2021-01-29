@@ -11,7 +11,7 @@ author_profile: true
 
 ---
 
-This is an application which can recognize the breed of the dog. Now, it can only recognize ten of them, in the future, I'll make it recognize more!
+這個程式可以辨識狗狗的品種。現在只能辨識10種，計畫未來可以辨識更多!!(應該吧哈哈)
 
 Result
 ===

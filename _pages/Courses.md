@@ -85,25 +85,25 @@ feature_row4:
     btn_class: "btn--primary" 
 ---
 
-<b style=" font-size: 50px;">Freshman</b>
+<b style=" font-size: 50px;">大一</b>
 
 
 {% include feature_row %}
 
 
-<b style=" font-size: 50px;">Sophomore</b>
+<b style=" font-size: 50px;">大二</b>
 
 
 
 {% include feature_row id="feature_row2" %}
 
 
-<b style=" font-size: 50px;">Junior</b>
+<b style=" font-size: 50px;">大三</b>
 
  
 {% include feature_row id="feature_row3"  %}
 
-<b style=" font-size: 50px;">Senior</b>
+<b style=" font-size: 50px;">大四</b>
 
 <!--
 {% include feature_row id="intro4" type="center" %}
