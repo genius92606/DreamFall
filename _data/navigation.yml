@@ -1,0 +1,20 @@
+# main links
+main:
+  - title: "Posts"
+    url: /year-archive/
+  - title: "Categories"
+    url: /categories/
+  - title: "Projects"
+    url: /projects/
+  - title: "Courses"
+    url: /courses/
+  - title: "Portfolio"
+    url: /portfolio/
+  - title: "About"
+    url: /about-me/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
