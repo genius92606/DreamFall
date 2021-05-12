@@ -6,12 +6,12 @@ main:
     url: /categories/
   - title: "Projects"
     url: /projects/
-  - title: "Courses"
-    url: /courses/
   - title: "Portfolio"
     url: /portfolio/
   - title: "About"
     url: /about-me/
+  - title: "英文版"
+    url: https://genius92606.github.io
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
